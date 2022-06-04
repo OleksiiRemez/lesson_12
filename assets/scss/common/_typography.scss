@@ -1,0 +1,17 @@
+body {
+    min-height: 100vh;
+}
+
+main {
+    z-index: -1;
+    padding-top: 80px;
+    min-height: 100vh;
+}
+
+header {
+    z-index: 1;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
